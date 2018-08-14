@@ -37,8 +37,8 @@ namespace Lab1Pt1_redo
                         inputblank = false;
                     }
                 } while (inputblank);
-
                 inputblank = true;
+
                 do
                 {
                     Console.Write("Enter second value: ");
@@ -51,6 +51,7 @@ namespace Lab1Pt1_redo
                         inputblank = false;
                     }
                 } while (inputblank);
+                inputblank = true;
 
                 bool x = true;
 
