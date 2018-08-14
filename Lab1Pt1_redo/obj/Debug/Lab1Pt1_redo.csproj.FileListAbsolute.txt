@@ -1,7 +1,0 @@
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\bin\Debug\Lab1Pt1_redo.exe.config
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\bin\Debug\Lab1Pt1_redo.exe
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\bin\Debug\Lab1Pt1_redo.pdb
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\obj\Debug\Lab1Pt1_redo.csprojResolveAssemblyReference.cache
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\obj\Debug\Lab1Pt1_redo.csproj.CoreCompileInputs.cache
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\obj\Debug\Lab1Pt1_redo.exe
-C:\Users\EZM\source\repos\Lab1Pt1_redo\Lab1Pt1_redo\obj\Debug\Lab1Pt1_redo.pdb
